@@ -23,6 +23,9 @@
     "core-toolbar": "Polymer/core-toolbar#~0.5.1",
     "paper-tabs": "Polymer/paper-tabs#~0.5.1",
     "firebase-element": "Polymer/firebase-element#~0.5.1",
-    "core-component-page": "Polymer/core-component-page#~0.5.1"
+    "core-component-page": "Polymer/core-component-page#~0.5.1",
+    "paper-toast": "Polymer/paper-toast#~0.5.2",
+    "paper-checkbox": "Polymer/paper-checkbox#~0.5.2",
+    "paper-fab": "Polymer/paper-fab#~0.5.2"
   }
 }
